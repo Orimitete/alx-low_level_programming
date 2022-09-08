@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- *  * main - prints the phrase "Programming is like building a multilingual puzzle
- *   * Return: 0 if exited properly, non-zero otherwise
- *    */
+ *  * main - Short description, single line
+ *   * Description: Longer description of the function)?
+ *    * Return: Description of the returned value
+ *     */
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
